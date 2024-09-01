@@ -1,0 +1,312 @@
+Uri: https://cdn.ampproject.org/v0.js
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\v0.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0.mjs
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\v0.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-analytics-0.1.js
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\v0\amp-analytics-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-analytics-0.1.mjs
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\v0\amp-analytics-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-bind-0.1.js
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\v0\amp-bind-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-bind-0.1.mjs
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\v0\amp-bind-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\v0\amp-fx-collection-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-fx-collection-0.1.mjs
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\v0\amp-fx-collection-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-iframe-0.1.js
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\v0\amp-iframe-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-iframe-0.1.mjs
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\v0\amp-iframe-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-script-0.1.js
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\v0\amp-script-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-script-0.1.mjs
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\v0\amp-script-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://top-fwz1.mail.ru/counter?id=697875;t=487;l=1
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\counter
+Content Type: image/gif
+
+Uri: https://www.miloserdie.ru/article/svyatoj-vrach-luka-simferopolskij/
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\article\svyatoj-vrach-luka-simferopolskij\index.htm
+Content Type: text/html
+
+Uri: https://www.miloserdie.ru/article/svyatoj-vrach-luka-simferopolskij/?noamp=mobile
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\article\svyatoj-vrach-luka-simferopolskij\index-1.htm
+Content Type: text/html
+
+Uri: https://www.miloserdie.ru/article/svyatoj-vrach-luka-simferopolskij/amp/
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\article\svyatoj-vrach-luka-simferopolskij\amp\index.htm
+Content Type: text/html
+
+Uri: https://www.miloserdie.ru/wp-content/plugins/advanced-popups/fonts/advanced-popups-icons.svg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\plugins\advanced-popups\fonts\advanced-popups-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.miloserdie.ru/wp-content/plugins/advanced-popups/fonts/advanced-popups-icons.woff
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\plugins\advanced-popups\fonts\advanced-popups-icons.woff
+Content Type: application/font-woff
+
+Uri: https://www.miloserdie.ru/wp-content/plugins/advanced-popups/public/css/advanced-popups-public.css
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\plugins\advanced-popups\public\css\advanced-popups-public.css
+Content Type: text/css
+
+Uri: https://www.miloserdie.ru/wp-content/plugins/advanced-popups/public/js/advanced-popups-public.js
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\plugins\advanced-popups\public\js\advanced-popups-public.js
+Content Type: application/javascript
+
+Uri: https://www.miloserdie.ru/wp-content/plugins/native-lazyload/assets/images/placeholder.svg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\plugins\native-lazyload\assets\images\placeholder.svg
+Content Type: image/svg+xml
+
+Uri: https://www.miloserdie.ru/wp-content/plugins/wp-postviews/postviews-cache.js
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\plugins\wp-postviews\postviews-cache.js
+Content Type: application/javascript
+
+Uri: https://www.miloserdie.ru/wp-content/themes/milo/assets/fonts/Ladoga-Bold.woff
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\themes\milo\assets\fonts\Ladoga-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://www.miloserdie.ru/wp-content/themes/milo/assets/fonts/Ladoga-Regular.woff
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\themes\milo\assets\fonts\Ladoga-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://www.miloserdie.ru/wp-content/themes/milo/assets/fonts/SourceSansPro-Bold.woff
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\themes\milo\assets\fonts\SourceSansPro-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://www.miloserdie.ru/wp-content/themes/milo/assets/fonts/SourceSansPro-Italic.woff
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\themes\milo\assets\fonts\SourceSansPro-Italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.miloserdie.ru/wp-content/themes/milo/assets/fonts/SourceSansPro-Light.woff
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\themes\milo\assets\fonts\SourceSansPro-Light.woff
+Content Type: application/font-woff
+
+Uri: https://www.miloserdie.ru/wp-content/themes/milo/assets/fonts/SourceSansPro-Regular.woff
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\themes\milo\assets\fonts\SourceSansPro-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://www.miloserdie.ru/wp-content/themes/milo/assets/fonts/SourceSansPro-SemiBold.woff
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\themes\milo\assets\fonts\SourceSansPro-SemiBold.woff
+Content Type: application/font-woff
+
+Uri: https://www.miloserdie.ru/wp-content/themes/milo/assets/img/favicon.ico
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\themes\milo\assets\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.miloserdie.ru/wp-content/themes/milo/assets/img/search.png
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\themes\milo\assets\img\search.png
+Content Type: image/png
+
+Uri: https://www.miloserdie.ru/wp-content/themes/milo/assets/img/subscribe_bg.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\themes\milo\assets\img\subscribe_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/themes/milo/assets/img/telegram.png
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\themes\milo\assets\img\telegram.png
+Content Type: image/png
+
+Uri: https://www.miloserdie.ru/wp-content/themes/milo/assets/rev/bundle-7082c695b1.js
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\themes\milo\assets\rev\bundle-7082c695b1.js
+Content Type: application/javascript
+
+Uri: https://www.miloserdie.ru/wp-content/themes/milo/assets/rev/bundle-7c4161bb92.css
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\themes\milo\assets\rev\bundle-7c4161bb92.css
+Content Type: text/css
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2015/06/001nv1.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2015\06\001nv1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2015/06/016nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2015\06\016nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2015/06/021nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2015\06\021nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2015/06/025nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2015\06\025nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2015/06/039nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2015\06\039nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2015/06/043nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2015\06\043nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2015/06/044nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2015\06\044nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/002nv-140x85.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\002nv-140x85.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/002nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\002nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/007nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\007nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/010nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\010nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/013nv-1.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\013nv-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/014nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\014nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/015.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\015.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/017nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\017nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/018nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\018nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/019nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\019nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/020nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\020nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/024nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\024nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/027nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\027nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/029nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\029nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/030nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\030nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/031nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\031nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/033nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\033nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/034nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\034nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/035nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\035nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/036nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\036nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/03nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\03nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/041nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\041nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/04nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\04nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/06nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\06nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/08nv.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\08nv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2018/06/5261_1492550305.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2018\06\5261_1492550305.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2021/09/logo_pspm_900_tr_crop.png
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2021\09\logo_pspm_900_tr_crop.png
+Content Type: image/png
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2021/09/telegram_155_tr.png
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2021\09\telegram_155_tr.png
+Content Type: image/png
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2024/08/391a1803-400x246.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2024\08\391a1803-400x246.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2024/08/391a1803-580x356.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2024\08\391a1803-580x356.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-content/uploads/2024/08/391a1803-700x430.jpg
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-content\uploads\2024\08\391a1803-700x430.jpg
+Content Type: image/jpeg
+
+Uri: https://www.miloserdie.ru/wp-includes/css/dist/block-library/style.min.css
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.miloserdie.ru/wp-includes/js/jquery/jquery.min.js
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.miloserdie.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.miloserdie.ru%2Farticle%2Fsvyatoj-vrach-luka-simferopolskij%2F
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.miloserdie.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.miloserdie.ru%2Farticle%2Fsvyatoj-vrach-luka-simferopolskij%2F&format=xml
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://yandex.ru/ads/system/context.js
+File Name: F:\ClandX\CSpaceX\WebsX\WebSites\www.miloserdie.ru\ads\system\context.js
+Content Type: text/javascript
+
