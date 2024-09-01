@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html amp>
+<head>
+	<meta name="amp-google-client-id-api" content="googleanalytics">
+	<script async src="https://cdn.ampproject.org/v0.js"></script>
+	<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+	<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+	<script async custom-element="amp-font" src="https://cdn.ampproject.org/v0/amp-font-0.1.js"></script>
+	<script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>
+	<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.2.js"></script>
+	<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+	<script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+
+	<link rel="canonical" href="https://foma.ru/psalom.html">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+	<title>Псалтирь: песнопения или тетива лука? - Православный журнал «Фома»</title>
+
+	<style amp-custom>
+	@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://foma.ru/wp-content/plugins/amp-light/template/fonts/Roboto.ttf) format('truetype');
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	padding-top: 65px;
+	font-size: 18px;
+    line-height: 1.3;
+    font-family: 'Roboto';
+}
+
+footer, header {
+    background-color: #3B3B3B;
+    color: #fff;
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 10;
+}
+
+footer {
+    text-align: center;
+	margin-top: 15px;
+	padding: 20px;
+}
+
+amp-img {
+	max-width: 100%; 
+}
+
+amp-img.size-thumbnail {
+    width: 100px; 
+    height: 100px; 
+}
+
+img {
+	object-fit: contain;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 15px 0;
+	line-height: 1.2;
+	font-size: 1.4em;
+}
+
+p {
+	margin: 10px 0;
+}
+
+a {
+    color: #a81715;
+    text-decoration: underline;
+}
+
+.aligncenter {
+    text-align: center;
+	margin: 0 auto;
+}
+
+figcaption {
+    opacity: .7;
+    margin: 5px auto;
+    text-align: center;
+    font-size: 0.8em;
+}
+.block-author, 
+.alignleft {
+    float: left;
+    margin-right: 10px;
+}
+
+.block-author a {
+    display: inline-flex;
+    flex-direction: column;
+    width: 150px;
+    text-align: center;
+    color: #585858;
+    font-family: sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.alignright {
+    float: right;
+    margin-left: 10px;
+}
+
+.container {
+	max-width: 640px; 
+	margin: 0 auto;
+}
+
+.logo {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	padding: 5px;
+	text-align: center;
+}
+
+.wrap-document {
+	padding: 10px;
+}
+
+.flex__menu {
+	display: flex;
+	justify-content: space-between;
+}
+
+.sidebar-toggle {
+	background-image: url(https://foma.ru/wp-content/plugins/amp-light/template/images/menu-open.png);  
+    color: #fff;
+    display: inline-block;
+    height: 65px;
+    width: 65px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 0;
+    background-color: initial;
+}
+header[aria-hidden="true"] .sidebar-toggle {
+	background-image: url(https://foma.ru/wp-content/plugins/amp-light/template/images/menu-close.png);  
+}
+
+amp-sidebar[side=left][open] {
+	width: 270px;
+}
+
+amp-sidebar {
+	background-color: #3B3B3B;
+	background-image: url(https://foma.ru/wp-content/plugins/amp-light/template/images/logo_foma_new.svg);
+    background-position: center calc(100% - 80px);
+    background-size: 40%;
+    background-repeat: no-repeat;
+}
+
+amp-sidebar h3 {
+	line-height: 68px;
+	color: white; 
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+amp-sidebar .menu {
+	padding: 0; 
+	margin: 0;
+	border-top: 1px solid #898989;
+}
+amp-sidebar .menu li {
+	display: block;
+	border-bottom: 1px solid #898989;
+	background-color: #474747;
+}
+amp-sidebar .menu li a {
+    display: block;
+    padding: 10px 15px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+
+.amp-buttons {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    background-color: #3cb5e8;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 16px;
+
+}
+
+.btn-white {
+    background-color: white;
+    color: black;
+}
+
+.btn-red {
+    background-color: #a81715;
+}
+
+.btn-center {
+    margin: 0 auto;
+    display: block;
+    width: fit-content;
+}
+
+.cards-authors, 
+.blocks-gallery-grid {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+.blocks-gallery-grid figcaption {
+    font-size: 14px; 
+    line-height: 120%;
+    padding: 5px;
+}
+
+.blocks-gallery-grid figure {margin: 0} 
+
+.cards-authors .card-author, 
+.blocks-gallery-grid li {
+    flex: 1 0 24rem;
+    box-shadow: 0.1rem 0.2rem 0.4rem rgba(0, 0, 0, 0.4);
+    overflow: hidden;
+}
+
+.card-author {
+    padding: 10px;
+}
+
+@supports (display: grid) {
+    .cards-authors, 
+    .blocks-gallery-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+        grid-gap: 14px;
+    }
+    
+    .cards-authors .card-author,
+    .blocks-gallery-grid,
+    .blocks-gallery-grid li {
+        margin: 0;
+    }
+}
+
+.has-image-true {
+	position: relative;
+}
+.has-image-true .post-description-content {
+	position: absolute;
+    bottom: 13px;
+    left: 20px;
+    width: calc(100% - 40px);
+}
+.has-image-true h1 {
+    background-color: #53C1AC;
+    box-shadow: -10px 0 0 #53C1AC, 10px 0 0 #53C1AC;
+    color: #fff;
+    line-height: 130%;
+    display: inline;
+    padding: 5px 0;
+}
+
+.post-description-image img {
+	width: 100%; 
+	max-width: 100%;
+	height: auto;
+}
+
+.wp-block-cards-block {
+	padding: 20px; 
+	margin: 20px 0;
+	text-align: center;
+	background-color: #FFF8EE; 
+}
+
+.post {
+    display: flex;
+    background-color: #fff;
+    padding: 10px;
+    margin: 10px 0;
+    box-shadow: 1px 1px 3px #ababab;
+}
+
+.post-description {
+	margin-bottom: 10px;
+}
+
+.post-content {
+	padding-left: 10px;
+}
+
+.post amp-img {
+	height: 70px; 
+	width: 70px; 
+}
+
+
+.pagination {
+	text-align: center;
+	padding: 10px;
+    font-family: serif;
+    font-size: 16px;
+}
+
+.pagination span,
+.pagination a {
+    display: inline-block;
+    padding: 4px 8px;
+    margin: 2px;
+    text-decoration: none;
+}
+
+.pagination a {
+	background-color: #e9f8ff;
+}
+
+.nav-cat {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(100px, 33.33%));
+    grid-gap: 10px;
+    max-width: 100%;
+    box-sizing: border-box;
+    margin: 20px auto;
+}
+
+.nav-cat a {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+    padding: 4px 8px;
+    box-shadow: 1px 1px 3px #c7c7c7;
+    box-sizing: border-box;
+    background-color: #fbfbfb;
+    font-size: 15px;
+    text-decoration: none;
+    line-height: 17px;
+    color: #797979;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.cat-h1 {
+	text-align: center;
+}
+
+.breadcrumbs {
+    margin: 15px 0;
+}
+
+.breadcrumbs__current, 
+.breadcrumbs a {
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 1px;
+    color: #3B3B3B;
+    font-weight: 600;
+}
+
+.breadcrumbs__current {
+    color: gray;
+}
+
+.breadcrumbs__separator {
+    vertical-align: middle;
+    display: inline-block;
+    width: 40px;
+    height: 16px;
+    margin-top: 0;
+    background-image: url(https://foma.ru/wp-content/plugins/amp-light/template/images/Arrow.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.l-bd-cr.breadcrumbs__separator {
+    width: 15px;
+    margin-right: 15px;
+}
+
+.card-author {
+    text-align: center; 
+}
+
+.aggregator_links {
+    font-family: sans-serif;
+    color: #3B3B3B;
+}
+
+.aggregator_links a:link,  .aggregator_links a:visited {
+    color: #3B3B3B;
+}
+
+@media (max-width: 320px) {
+	.nav-cat {
+		grid-template-columns: repeat(auto-fill, 140px) 50%;
+	}
+}	</style>
+
+	<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+</head>
+<body>
+	<header>
+		<div class="container flex__menu">
+			<a class="logo" href="/">
+				<amp-img src="https://foma.ru/wp-content/plugins/amp-light/template/images/logo_foma_new.svg"  width="50" height="50" alt="Православный журнал «Фома»" noloading></amp-img>
+			</a>
+			<button class="sidebar-toggle" on="tap:sidebar.toggle"></button>
+		</div>
+	</header>
+	<div class="wrap-document container">
+<p><a href="https://foma.ru/psalom.html" class="btn btn-red btn-center" >Перейти на полную версию страницы</a></p><h1>Псалтирь: песнопения или тетива лука?</h1><div class="content">
+<div class="wp-block-agregator-author block-author"><amp-img src="https://media.foma.ru/2014/06/pushaev.jpg" height="150" width="150" layout="responsive"></amp-img><p class="block-author-title"><a href="https://foma.ru/authors/pushhaev-jurij">Юрий ПУЩАЕВ</a></p></div>
+
+
+
+<p>Одна из&nbsp;центральных книг Ветхого Завета&nbsp;— Псалтырь святого пророка и&nbsp;царя Давида&nbsp;— содержит всего 151&nbsp;псалом, или, говоря по-русски..., 151&nbsp;песню. Древнегреческое слово <strong>ὁ ψαλμός</strong> (psalmos) переводится на&nbsp;русский язык как песня или пение. Слово <strong>τό ψαλτήριον</strong> (psaltērion) (переведенное как Псалтырь) означало струнный щипковый музыкальный инструмент с&nbsp;10–12&nbsp;струнами, в&nbsp;сопровождении которого, а&nbsp;также некоторых других инструментов и&nbsp;исполнялись обращенные к&nbsp;Богу песни, то&nbsp;есть&nbsp;— псалмы. Эти слова, пришедшие и&nbsp;в&nbsp;русский язык, являются однокоренными с&nbsp;глаголом <strong>ψάλλω (</strong><strong>psal</strong>l<strong>ō</strong><strong>) </strong>— рвать, натягивать (тетиву лука), щипать, перебирать пальцами струны, играть на&nbsp;кифаре и&nbsp;на&nbsp;лире, петь, воспевать.</p>
+
+
+
+<p>По&nbsp;традиции авторство большинства псалмов приписывается царю Давиду, хотя про некоторые псалмы говорится, что их&nbsp;написали другие авторы&nbsp;— например, Соломон и&nbsp;даже Моисей. Таким образом, Псалтырь&nbsp;— это сборник священных гимнов&nbsp;— хвалебных, молитвенных и&nbsp;покаянных песен, обращенных к&nbsp;Богу. Этим объясняются вводные надписи перед некоторыми псалмами. Например, перед четвертым псалмом: «Начальнику хора. На&nbsp;струнных орудиях. Псалом Давида». Или перед пятым псалмом: «Начальнику хора. На&nbsp;духовых орудиях. Псалом Давида». Псалтырь <strong>(τό ψαλτήριον)</strong> как царский инструмент Давид удержал за&nbsp;собой. Правда, мы&nbsp;сейчас не&nbsp;знаем ни&nbsp;мелодий, под которые исполнялись псалмы, ни&nbsp;точного характера звучания указанных инструментов.</p>
+
+
+
+
+		<div class="onepost">
+			<!--<div class="onepost-name">Читайте также</div>-->
+			<div class="onepost-image"><amp-img width="150" height="81" src="https://media.foma.ru/2010/03/Miniature_from_the_Chludov-psalter-e1448320278229-150x81.jpg" alt="Псалтирь: песнопения или тетива лука?" layout="responsive"></amp-img></div>
+			<div class="onepost-title">
+				<a href="https://foma.ru/zachem-xristianam-psalmyi-proklyatiya.html">Зачем христианам «псалмы проклятия»?</a>
+			</div>
+		</div>
+	
+
+
+
+<p>То, что в&nbsp;псалмах сочетались слова и&nbsp;музыка, что они были песнями, позволяло подходить к&nbsp;их&nbsp;произнесению и&nbsp;прослушиванию более внимательно. Ведь когда что-либо поется, особенно гимны или хвалебные песни, то&nbsp;это и&nbsp;произносится торжественно и&nbsp;не&nbsp;спеша, что способствует сосредоточению внимания. К&nbsp;сожалению, даже в&nbsp;храмах на&nbsp;богослужениях порой чтение псалмов превращается в&nbsp;поспешное отчитывание обязательных слов, которое из-за торопливости чтеца порой сильно препятствует пониманию смысла произносимого. Для отчетливости произношения полезно было&nbsp;бы помнить, что изначально псалом был песней, слова которой нужно произносить торжественно и&nbsp;неспешно, отчетливо. Кстати, этот подход к&nbsp;распевному произнесению псалма святитель Феофан Затворник распространял на&nbsp;всякую молитву. Он&nbsp;часто говорил о&nbsp;том, что никогда не&nbsp;нужно спешно читать молитвы, но&nbsp;чтобы всякое слово произносилось с&nbsp;сознанием его смысла. Так, перечисляя в&nbsp;одном письме ряд советов для возбуждения и&nbsp;укрепления «в&nbsp;душе молитвенного движения», он&nbsp;начинает со&nbsp;следующего: «Никогда спешно не&nbsp;читайте, а&nbsp;читайте будто нараспев, близко к&nbsp;тому. В&nbsp;древности все читаемые молитвы брались из&nbsp;псалмов. Но&nbsp;нигде не&nbsp;встречаю слова „читать“, а&nbsp;везде: „петь“». Потом Феофан Затворник продолжает: «Во&nbsp;всякое слово вникайте и&nbsp;не&nbsp;мысль только читаемого воспроизводите в&nbsp;сознании, но&nbsp;и&nbsp;чувство соответственное возбуждайте...»</p>
+
+
+
+<p>Так что неслучайно самые важные молитвы на&nbsp;богослужениях произносятся верующими не&nbsp;просто совместно, но&nbsp;и&nbsp;нараспев, например, «Отче наш», «Царю небесный», «Верую», и&nbsp;др. В&nbsp;каком-то смысле они тоже являются псалмами, то&nbsp;есть&nbsp;— песнопениями. Их&nbsp;исполнение способствует более возвышенному настрою души, а&nbsp;также более отчетливому пониманию смысла содержащихся в&nbsp;них слов.</p>
+
+
+
+<p><em>На заставке фрагмент: Парижская псалтырь. X век. Национальная библиотека, Париж</em></p>
+</div>	</div>
+
+	<footer>
+		<div class="container copyright">
+			<div class="copyright-left">
+				<span>© Журнал Фома. Все права защищены, 2000—2024</span>
+			</div>
+		</div>
+	</footer>
+
+	<amp-sidebar id="sidebar" layout="nodisplay" side="left">
+		<h3>Меню сайта</h3>
+        <div class="amp-buttons"><a class="btn btn-red" href="https://lp.foma.ru/donate/?utm_source=headerbutton&utm_medium=fomaru&utm_campaign=Псалтирь: песнопения или тетива лука? - Православный журнал «Фома»">Помочь Фоме</a></div>
+		<div class="menu-amp-menju-container"><ul id="menu-amp-menju" class="menu"><li id="menu-item-347303" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-347303 nav-list__item"><a href="https://foma.ru/stati" class="nav-list__link">Все материалы</a></li>
+<li id="menu-item-347304" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-347304 nav-list__item"><a href="https://foma.ru/novosti" class="nav-list__link">Новости</a></li>
+<li id="menu-item-347305" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-347305 nav-list__item"><a href="https://foma.ru/prostyie-voprosyi" class="nav-list__link">Вопросы священнику</a></li>
+<li id="menu-item-347307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-347307 nav-list__item"><a href="https://www.lavkafoma.ru/collection/zhurnal-foma" class="nav-list__link">Купить журнал</a></li>
+</ul></div>	</amp-sidebar>
+
+    <amp-analytics type="gtag" data-credentials="include">
+        <script type="application/json">
+            {
+                "vars" : {
+                    "gtag_id": "UA-8838770-1",
+                    "config" : {
+                        "UA-8838770-1": { "groups": "default" }
+                    }
+                }
+            }
+        </script>
+    </amp-analytics>
+
+    <amp-analytics id="analytics_liveinternet">
+        <script type="application/json">
+            {
+                "requests": {
+                    "pageview": "https://counter.yadro.ru/hit?u${ampdocUrl};r${documentReferrer};s${screenWidth}*${screenHeight}*32;h${title};${random}"
+                },
+                "triggers": {
+                    "track pageview": {
+                        "on": "visible",
+                        "request": "pageview"
+                    }
+                }
+            }
+        </script>
+    </amp-analytics>
+
+    <amp-analytics type="metrika">
+        <script type="application/json">
+            {"vars": {"counterId": "1007672"},"triggers": {"notBounce": {"on": "timer","timerSpec": {"immediate": false,"interval": 15,"maxTimerLength": 16},"request": "notBounce"}}}
+        </script>
+    </amp-analytics>
+</body></html>
